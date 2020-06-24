@@ -4,7 +4,7 @@
 ##Tutorials
 
 * [start in MakeCode](https://makecode.microbit.org/#tutorial:github:miketym/evasion/tutorial)
-
+* [start tutorial](/evasion/tutorial)
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
