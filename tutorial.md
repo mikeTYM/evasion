@@ -1,5 +1,3 @@
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
-
 # Evasion
 
 ## Introduction @unplugged
@@ -110,4 +108,5 @@ input.onButtonPressed(Button.AB, function () {
 ## Test and download
 
 Your game is ready! If you have a @boardname@, press ``|Download|`` to try it out on the device.
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
