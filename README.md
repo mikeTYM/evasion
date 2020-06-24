@@ -3,7 +3,7 @@
 
 ##Tutorials
 
-* [tutorial](/tutorial)
+* [tutorial](/evasion/tutorial)
 
 ## Use as Extension
 
