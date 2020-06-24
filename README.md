@@ -1,6 +1,10 @@
 
 > Open this page at [https://miketym.github.io/evasion/](https://miketym.github.io/evasion/)
 
+##Tutorials
+
+* [tutorial](/tutorial)
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
